@@ -1,0 +1,7 @@
+C:\Users\mrt_b\source\repos\Arraylist 2\Arraylist 2\bin\Debug\Arraylist 2.exe.config
+C:\Users\mrt_b\source\repos\Arraylist 2\Arraylist 2\bin\Debug\Arraylist 2.exe
+C:\Users\mrt_b\source\repos\Arraylist 2\Arraylist 2\bin\Debug\Arraylist 2.pdb
+C:\Users\mrt_b\source\repos\Arraylist 2\Arraylist 2\obj\Debug\Arraylist 2.csprojAssemblyReference.cache
+C:\Users\mrt_b\source\repos\Arraylist 2\Arraylist 2\obj\Debug\Arraylist 2.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Arraylist 2\Arraylist 2\obj\Debug\Arraylist 2.exe
+C:\Users\mrt_b\source\repos\Arraylist 2\Arraylist 2\obj\Debug\Arraylist 2.pdb
